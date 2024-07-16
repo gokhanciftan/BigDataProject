@@ -1,0 +1,2 @@
+v1
+{"path":"hdfs://namenode:9000/PurchasedItems/part-00000-67ae46e9-2aa4-4fa4-b892-bfb376ef8c70-c000.snappy.parquet","size":3698,"isDir":false,"modificationTime":1715731769302,"blockReplication":3,"blockSize":134217728,"action":"add"}

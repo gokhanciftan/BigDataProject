@@ -1,0 +1,16 @@
+{
+  "type": "record",
+  "name": "load",
+  "fields": [
+    {"name":"age", "type":"long" },
+    {"name":"name", "type":"string" },
+{
+      "default": null,
+      "name": "campany",
+      "type": [
+        "null",
+        "string"
+      ]
+    }
+]
+}
